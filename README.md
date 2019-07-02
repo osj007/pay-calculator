@@ -10,15 +10,15 @@ I built this after learning about recursion, I wanted to build an application th
 
 Upon launch of program you will be asked "Who is using this?" There you will have up to 3 attempts at entering a valid using. If the user is not stored then the program will exit and close.
 
-![unauthorized user](unauthUser.png):
+![unauthorized user](screenshots/unauthUser.png):
 
 Successfull entries into the program will output as such.
 
-![successful user](successfulauth.png):
+![successful user](screenshots/successfulauth.png):
 
 or for salaried workers: 
 
-![salaried worker](salary.png):
+![salaried worker](screenshots/salary.png):
 
 ## Output
 
@@ -28,14 +28,14 @@ The following output after questions have been answered will look as such:
 
 ### For hourly workers
 
-![hourly employee pay](finalHourly.png):
+![hourly employee pay](screenshots/finalHourly.png):
 
 ### For salaried employee
 
 There are options, one for a bonus included:
 
-![bonus included for salary employee](bonusSalary.png):
+![bonus included for salary employee](screenshots/bonusSalary.png):
 
 No bonus: 
 
-![no bonus included for salary employee](noBonus.png):
+![no bonus included for salary employee](screenshots/noBonus.png):
